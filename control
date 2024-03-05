@@ -1,0 +1,9 @@
+Package: com.lint.getthoseivars2
+Name: GetThoseIvars2
+Depends: mobilesubstrate
+Version: 1.0.1
+Architecture: iphoneos-arm
+Description: Hooks NSObject and _TtCs12_SwiftObject to provide a way to access ivars.
+Maintainer: lint
+Author: lint
+Section: Tweaks
